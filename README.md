@@ -1,4 +1,4 @@
-# Cloud Engineer & Terraform Module Developer
+# Cloud Infrastructure Engineer
 
 ![GitHub Profile](https://img.shields.io/badge/GitHub-rizkiprass-blueviolet?style=flat-square&logo=github)
 
@@ -18,3 +18,4 @@ I'm a passionate AWS cloud engineer who is committed to setting up and maintaini
 I'm currently working in an exciting project that involves creating a configurable Terraform module for setting up an OpenVPN Access Server on AWS EC2 instances.
 
 ---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rizkiprass&theme=rose-pine&border_radius=2)](https://git.io/streak-stats)
