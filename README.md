@@ -4,7 +4,7 @@
 
 ## Hello, fellow developers! 👋
 
-I'm a passionate AWS cloud engineer who is committed to setting up and maintaining infrastructure. My area of expertise is Amazon Web Services (AWS), and I enjoy developing effective, scalable cloud solutions and automating processes :gear: .
+I'm a committed infrastructure builder who is excited about using the cloud. I enjoy creating scalable, efficient cloud solutions and automating processes :gear: .
 
 ### 🔧 Skills & Expertise
 
