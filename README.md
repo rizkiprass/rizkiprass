@@ -4,7 +4,7 @@
 
 ## Hello, fellow developers! 👋
 
-I'm a committed infrastructure builder who is excited about using the cloud. I enjoy creating scalable, efficient cloud solutions and automating processes :gear: .
+I'm an infrastructure engineer who is excited about using the cloud. I enjoy creating scalable, efficient cloud solutions and automating processes :gear: .
 
 ### 🔧 Skills & Expertise
 
